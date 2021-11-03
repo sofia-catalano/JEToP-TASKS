@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+.navbar{
+  background-color: #3c5d79;
+}
+
+.form{
+  margin-top: 2em;
+  padding-bottom: 1em;
+  border: 4px solid #3c5d79;
+  border-radius: 10px 10px 10px 10px;
+  height:75%;
+  background-color: #c2e3f1;
+} 
+
+.below-nav {
+  padding-top: 8.5rem;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
