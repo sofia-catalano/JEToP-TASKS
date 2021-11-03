@@ -1,0 +1,89 @@
+.diamond{
+    position: absolute;
+    padding-left: 25px;
+}
+
+.skilline-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    letter-spacing: 0.04em;
+    position: relative;
+    z-index: 1;
+}
+.brand-skilline {
+    color: #113C49;
+    padding-left: 39px;
+    padding-top: 10px;
+}
+
+.nav-item{
+    padding: 10px 35px 10px;
+}
+
+.link{
+    color:#252641;
+    letter-spacing: 0.02em;
+}
+
+.button {
+    background-color: #F48C06; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #F48C06;
+}
+
+.button-sign {
+    padding: 5px 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.below-nav {
+    padding-top: 4.5rem;
+}
+
+.orange{
+    color: #F48C06;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.blu{
+    color: #0c1753;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.button-join {
+    padding: 15px 25px;
+    display: inline-block;
+    border-radius: 30px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #252641;
+    height: 125px;
+}
+
+.div{
+    padding-top: 20px;
+    padding-right: 90px;
+}
+
+.footer-diamond{
+    position: absolute;
+}
+
+.footer-skilline{
+    color: white;
+    z-index: 1;
+    padding-left: 108px;
+    padding-top: 7px;
+}
+
+.copy{
+    color: #B2B3CF;
+}
